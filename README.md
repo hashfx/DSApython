@@ -6,17 +6,17 @@
 
 ## Data Structure
 
-[List](Data Structures/list.py) <br/>
-[Sets](Data Structures/sets.py) <br/>
-[Tuple](Data Structures/tuple.py) <br/>
-[Dictionary](Data Structures/dictionary.py) <br/>
-[Stack](Data Structures/stack.py) <br/>
-[Tree](Data Structures/tree.py) <br/>
-[Graph](Data Structures/graph.py) <br/> 
-[Hashtable](Data Structures/hashtable.py) <br/>
-[Queue](Data Structures/queue.py) <br/>
-[Linked List](Data Structures/LinkedList.py) <br/>
-[MaxHeap](Data Structures/maxHeap.py) <br/>
+[List](Data-Structures/list.py) <br/>
+[Sets](Data-Structures/sets.py) <br/>
+[Tuple](Data-Structures/tuple.py) <br/>
+[Dictionary](Data-Structures/dictionary.py) <br/>
+[Stack](Data-Structures/stack.py) <br/>
+[Tree](Data-Structures/tree.py) <br/>
+[Graph](Data-Structures/graph.py) <br/> 
+[Hashtable](Data-Structures/hashtable.py) <br/>
+[Queue](Data-Structures/queue.py) <br/>
+[Linked List](Data-Structures/LinkedList.py) <br/>
+[MaxHeap](Data-Structures/maxHeap.py) <br/>
 [Binary Search Tree](Algorithms/BinarySearchTree.py) <br/>
 
 
