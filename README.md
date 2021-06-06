@@ -2,7 +2,7 @@
 
 ## Table of Content
 
-[Introduction](Intro.py)
+[Introduction](https://github.com/hashfx/DSApython/blob/main/Intro.md)
 
 ## Data Structure
 
@@ -23,12 +23,12 @@
 ## Algorithm
 
 [Big O](Algorithms/BigO.py) <br/>
-[Big O Notation Theory](Algorithms/BigO.md) <br/>
+[Big O Notation Theory](https://github.com/hashfx/DSApython/blob/main/Algorithms/BigO.md) <br/>
 [Bubble Sort](Algorithms/BubbleSort.py) <br/>
 [Binary Search](Algorithms/BinarySearch.py) <br/>
 [Binary Search Tree](Algorithms/BinarySearchTree.py) <br/>
 [Insertion Sort](Algorithms/InsertionSort.py) <br/>
 [Merge Sort](Algorithms/MergeSort.py) <br/>
 [Selection Sort](Algorithms/SelectionSort.py) <br/>
-[Shell Sort](Algorithms/ShellSort.py)
+[Shell Sort](Algorithms/ShellSort.py) <br/>
 [Recursion](Algorithms/recursion.py)
